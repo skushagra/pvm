@@ -1,3 +1,7 @@
 {
-"Sample Blog" : "This is a sample blog."
+  {
+    "blog_title": "Web Mail Printer v2023.01 Released",
+    "blog_body": "Web Mail Printer v2023.01 has been released on 24th April 2023. It is a stable version and can be used for production purposes."
+    "read_more_url": "https://sites.google.com/view/webmailprinter/web-mail-printer-v2023-01-released/"
+  }
 }
